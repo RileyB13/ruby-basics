@@ -1,0 +1,1 @@
+#Hashes are a grouping of key-value pairs.  Arrays are an indexed grouping of values.
